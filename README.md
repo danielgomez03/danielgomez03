@@ -2,15 +2,15 @@
 <p align="center">
   <img src="https://i.gifer.com/J4o.gif" alt="GIF">
 </p>
-<h3 align="center">Passionate about technology and digital communication products, I am a software developer with a primary focus on working with web technologies to keep my projects modern and up-to-date with the market. I have experience in application development using JavaScript, HTML5, CSS3, React.js, Next.js, Node.js, Redux.js, Express, and PostgreSQL. Additionally, I have knowledge of agile methodologies such as SCRUM and GitFlow, as well as other tech tools like C#, Angular, and MySQL. I am a results-driven and innovative individual with problem-solving skills and the ability to work well in a team. I thrive on constant learning and staying updated with the latest technological trends. I am always on the lookout for new challenges that allow me to expand my skills and contribute to the success of innovative projects. My background in Social Communication and Journalism provides me with a unique perspective in the world of development. I am able to combine technical skills with a deep understanding of digital communication, user experience, and the creation of communicative products that efficiently and pleasantly reach the target audience. Throughout my career, I have gained experience in Organizational Communication and have been involved in the creation of various communicative products, including photography, video, audio, graphic design, and UX/UI web design. Feel free to reach out to me for professional collaborations or to share ideas. I am excited about future opportunities in the field of technology! 🚀 How can I assist you? 👁️‍🗨️ You can reach me at: ✉️ Danielgome.serme@gmail.com. 📷 Instagram: @danielgomezs98</h3>
+<h3 align="center">Passionate about technology and digital communication products, I am a software developer with a primary focus on working with web technologies to keep my projects modern and up-to-date with the market. I have experience in application development using JavaScript, HTML5, CSS3, React.js, Next.js, Node.js, Redux.js, Express, and PostgreSQL. Additionally, I have knowledge of agile methodologies such as SCRUM and GitFlow, as well as other tech tools like C#, Angular, and MySQL. I am a results-driven and innovative individual with problem-solving skills and the ability to work well in a team. I thrive on constant learning and staying updated with the latest technological trends. I am always on the lookout for new challenges that allow me to expand my skills and contribute to the success of innovative projects. Feel free to reach out to me for professional collaborations or to share ideas. I am excited about future opportunities in the field of technology! 🚀 How can I assist you? 👁️‍🗨️ You can reach me at: ✉️ Danielgome.serme@gmail.com. 📷 Instagram: @danielgomezs98</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielgomez03&label=Profile%20views&color=0e75b6&style=flat" alt="danielgomez03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielgomez03" alt="danielgomez03" /></a> </p>
 
-- 🔭 I’m currently working on **1337**
+- 🔭 I’m currently working on ** Freelancer eCommerce App (Clothes Store) **
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning ** Azure **
 
 - 👨‍💻 All of my projects are available at [@loading@...](@loading@...)
 
